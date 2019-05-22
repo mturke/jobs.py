@@ -39,6 +39,5 @@ for job in jobs:
 
     print()
     print()
-    #print("Job Title:",title, "\nCompany:",company, "\nSalary:",salary, "\nSummary:", summary)
 
 
